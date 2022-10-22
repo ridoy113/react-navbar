@@ -12,7 +12,9 @@ const Navbar = () => {
 
                 <div>
                     <ul id='navbar'>
-                        <li><a href="">Home</a></li>
+                        <li><a
+                        className='active'
+                        href="">Home</a></li>
                         <li><a href="">Shop</a></li>
                         <li><a href="">Blog</a></li>
                         <li><a href="">About</a></li>
